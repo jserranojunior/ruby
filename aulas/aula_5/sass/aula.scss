@@ -1,0 +1,16 @@
+$highligh-color: #abcdef;
+$width: 300px;
+$base-color: #fff;
+$background-color: #abcdef;
+$cor-vermelho: red;
+$cor-amarela: yellow;
+$cor-azul:blue;
+
+
+body{
+    color: $cor-azul;
+}  
+
+.container{
+    width: $width;
+}
